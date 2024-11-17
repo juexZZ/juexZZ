@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **juexZZ/juexZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey👋, my name is Juexiao Zhang.
+
+I am currently a 2nd year PhD student at [NYU Courant CS](https://cs.nyu.edu/home/index.html) working with Professor Chen Feng at [AI4CE](https://ai4ce.github.io/#about) Lab.
+
+Nice to meet you!
+
+🤔 I am excited about teaching the knowledge of the world to our robots and future embodied AI agents.
